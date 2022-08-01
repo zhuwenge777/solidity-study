@@ -1,7 +1,7 @@
 # solidity-study
 学习区块链啦啦啦
 
-01 solidity上的第一个智能合约的部署
+# 01 solidity上的第一个智能合约的部署
   选择神奇的SPDX：MIT    选择一个神奇的许可证列表
 
   <img width="717" alt="截屏2022-08-01 15 30 01" src="https://user-images.githubusercontent.com/74130653/182096129-22e3650b-92b2-49b1-9116-1b31a08c9935.png">
