@@ -28,7 +28,7 @@
 使用了其他的区块链网络Goerli：
 
 将test01合约部署到了网络上，同时完成了第一次数据的储存：
+<img width="1189" alt="截屏2022-10-10 15 13 33" src="https://user-images.githubusercontent.com/74130653/194814698-16212a84-fcf1-4b0b-8fb2-3060745f4fce.png">
 
-![Uploading 截屏2022-10-10 15.12.38.png…]()
 
 
